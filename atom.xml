@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>道士的日常生活</title>
+  
+  <subtitle>道</subtitle>
+  <link href="https://taoism.ink/atom.xml" rel="self"/>
+  
+  <link href="https://taoism.ink/"/>
+  <updated>2023-04-04T12:02:09.924Z</updated>
+  <id>https://taoism.ink/</id>
+  
+  <author>
+    <name>文权</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>道的解释</title>
+    <link href="https://taoism.ink/2023/04/04/dao-de-jie-shi/"/>
+    <id>https://taoism.ink/2023/04/04/dao-de-jie-shi/</id>
+    <published>2023-04-04T12:01:43.000Z</published>
+    <updated>2023-04-04T12:02:09.924Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://taoism.ink/2023/04/03/hello-world/"/>
+    <id>https://taoism.ink/2023/04/03/hello-world/</id>
+    <published>2023-04-03T09:18:59.731Z</published>
+    <updated>2023-04-03T09:18:59.731Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
